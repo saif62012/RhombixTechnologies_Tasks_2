@@ -1,0 +1,119 @@
+2024-11-23 20:49:17,927 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 20:49:17,927 - [33mPress CTRL+C to quit[0m
+2024-11-23 20:49:17,928 -  * Restarting with stat
+2024-11-23 20:49:18,171 -  * Debugger is active!
+2024-11-23 20:49:18,173 -  * Debugger PIN: 103-662-762
+2024-11-23 11:31:47,643 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 11:31:47,643 - [33mPress CTRL+C to quit[0m
+2024-11-23 11:31:47,643 -  * Restarting with stat
+2024-11-23 11:31:47,779 -  * Debugger is active!
+2024-11-23 11:31:47,779 -  * Debugger PIN: 126-576-184
+2024-11-23 11:31:55,700 - 127.0.0.1 - - [23/Nov/2024 11:31:55] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-11-23 11:33:08,900 - 127.0.0.1 - - [23/Nov/2024 11:33:08] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-11-23 11:36:01,171 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 11:36:01,171 - [33mPress CTRL+C to quit[0m
+2024-11-23 11:36:01,180 -  * Restarting with stat
+2024-11-23 11:36:01,445 -  * Debugger is active!
+2024-11-23 11:36:01,448 -  * Debugger PIN: 142-005-875
+2024-11-23 11:36:05,730 - 127.0.0.1 - - [23/Nov/2024 11:36:05] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2024-11-23 11:36:05,859 - 127.0.0.1 - - [23/Nov/2024 11:36:05] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-23 11:36:05,860 - 127.0.0.1 - - [23/Nov/2024 11:36:05] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-23 11:36:05,890 - 127.0.0.1 - - [23/Nov/2024 11:36:05] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-23 11:36:05,904 - 127.0.0.1 - - [23/Nov/2024 11:36:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-23 11:39:56,956 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 11:39:56,959 - [33mPress CTRL+C to quit[0m
+2024-11-23 11:39:56,959 -  * Restarting with stat
+2024-11-23 11:39:57,093 -  * Debugger is active!
+2024-11-23 11:39:57,094 -  * Debugger PIN: 126-576-184
+2024-11-23 11:40:03,089 - 127.0.0.1 - - [23/Nov/2024 11:40:03] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-23 11:41:04,181 - 127.0.0.1 - - [23/Nov/2024 11:41:04] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-23 11:41:04,584 - 127.0.0.1 - - [23/Nov/2024 11:41:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-23 11:41:09,659 - 127.0.0.1 - - [23/Nov/2024 11:41:09] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-23 11:57:49,513 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 11:57:49,516 - [33mPress CTRL+C to quit[0m
+2024-11-23 11:57:49,516 -  * Restarting with stat
+2024-11-23 11:57:49,642 -  * Debugger is active!
+2024-11-23 11:57:49,643 -  * Debugger PIN: 126-576-184
+2024-11-23 11:58:30,713 - 127.0.0.1 - - [23/Nov/2024 11:58:30] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2024-11-23 11:58:30,945 - 127.0.0.1 - - [23/Nov/2024 11:58:30] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-23 11:58:30,946 - 127.0.0.1 - - [23/Nov/2024 11:58:30] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-23 11:58:31,091 - 127.0.0.1 - - [23/Nov/2024 11:58:31] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=doeumMBGUB4TkvAyRtwH HTTP/1.1" 200 -
+2024-11-23 12:03:16,843 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 12:03:16,843 - [33mPress CTRL+C to quit[0m
+2024-11-23 12:03:16,843 -  * Restarting with stat
+2024-11-23 12:03:16,982 -  * Debugger is active!
+2024-11-23 12:03:16,982 -  * Debugger PIN: 126-576-184
+2024-11-23 12:03:37,687 - 127.0.0.1 - - [23/Nov/2024 12:03:37] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2024-11-23 12:03:37,863 - 127.0.0.1 - - [23/Nov/2024 12:03:37] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-23 12:03:37,865 - 127.0.0.1 - - [23/Nov/2024 12:03:37] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-23 12:03:38,056 - 127.0.0.1 - - [23/Nov/2024 12:03:38] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=a72TRgUndVpQQWWW0pNt HTTP/1.1" 200 -
+2024-11-23 12:05:34,020 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 12:05:34,020 - [33mPress CTRL+C to quit[0m
+2024-11-23 12:05:34,021 -  * Restarting with stat
+2024-11-23 12:05:34,160 -  * Debugger is active!
+2024-11-23 12:05:34,161 -  * Debugger PIN: 126-576-184
+2024-11-23 12:05:40,022 - 127.0.0.1 - - [23/Nov/2024 12:05:40] "GET /login HTTP/1.1" 200 -
+2024-11-23 12:06:29,839 - 127.0.0.1 - - [23/Nov/2024 12:06:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-23 12:06:29,902 - 127.0.0.1 - - [23/Nov/2024 12:06:29] "GET /upload HTTP/1.1" 200 -
+2024-11-23 12:06:38,987 - 127.0.0.1 - - [23/Nov/2024 12:06:38] "GET /login HTTP/1.1" 200 -
+2024-11-23 12:11:18,017 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 12:11:18,017 - [33mPress CTRL+C to quit[0m
+2024-11-23 12:11:18,020 -  * Restarting with stat
+2024-11-23 12:11:18,156 -  * Debugger is active!
+2024-11-23 12:11:18,157 -  * Debugger PIN: 126-576-184
+2024-11-23 12:11:23,985 - 127.0.0.1 - - [23/Nov/2024 12:11:23] "GET /login HTTP/1.1" 200 -
+2024-11-23 12:11:37,697 - 127.0.0.1 - - [23/Nov/2024 12:11:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-23 12:11:37,772 - 127.0.0.1 - - [23/Nov/2024 12:11:37] "[35m[1mGET /upload HTTP/1.1[0m" 500 -
+2024-11-23 12:11:38,051 - 127.0.0.1 - - [23/Nov/2024 12:11:38] "GET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-23 12:11:38,058 - 127.0.0.1 - - [23/Nov/2024 12:11:38] "GET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-23 12:11:38,114 - 127.0.0.1 - - [23/Nov/2024 12:11:38] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=UIrNH78pMIQx6zECFqbX HTTP/1.1" 200 -
+2024-11-23 12:11:38,123 - 127.0.0.1 - - [23/Nov/2024 12:11:38] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-23 12:11:46,461 - 127.0.0.1 - - [23/Nov/2024 12:11:46] "[35m[1mGET /upload HTTP/1.1[0m" 500 -
+2024-11-23 12:11:46,626 - 127.0.0.1 - - [23/Nov/2024 12:11:46] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-23 12:11:46,637 - 127.0.0.1 - - [23/Nov/2024 12:11:46] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-23 12:11:46,693 - 127.0.0.1 - - [23/Nov/2024 12:11:46] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png&s=UIrNH78pMIQx6zECFqbX HTTP/1.1[0m" 304 -
+2024-11-23 12:16:26,640 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 12:16:26,646 - [33mPress CTRL+C to quit[0m
+2024-11-23 12:16:26,647 -  * Restarting with stat
+2024-11-23 12:16:26,773 -  * Debugger is active!
+2024-11-23 12:16:26,773 -  * Debugger PIN: 126-576-184
+2024-11-23 12:16:33,618 - 127.0.0.1 - - [23/Nov/2024 12:16:33] "GET /login HTTP/1.1" 200 -
+2024-11-23 12:16:44,838 - 127.0.0.1 - - [23/Nov/2024 12:16:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-23 12:16:44,903 - 127.0.0.1 - - [23/Nov/2024 12:16:44] "[35m[1mGET /upload HTTP/1.1[0m" 500 -
+2024-11-23 12:16:45,098 - 127.0.0.1 - - [23/Nov/2024 12:16:45] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-23 12:16:45,100 - 127.0.0.1 - - [23/Nov/2024 12:16:45] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-23 12:16:45,222 - 127.0.0.1 - - [23/Nov/2024 12:16:45] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=fQeCsPbNvOG4sgEy54uT HTTP/1.1" 200 -
+2024-11-23 12:30:09,223 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 12:30:09,224 - [33mPress CTRL+C to quit[0m
+2024-11-23 12:30:09,225 -  * Restarting with stat
+2024-11-23 12:30:09,377 -  * Debugger is active!
+2024-11-23 12:30:09,377 -  * Debugger PIN: 126-576-184
+2024-11-23 12:30:13,300 - 127.0.0.1 - - [23/Nov/2024 12:30:13] "GET /login HTTP/1.1" 200 -
+2024-11-23 12:30:14,984 - 127.0.0.1 - - [23/Nov/2024 12:30:14] "GET /login HTTP/1.1" 200 -
+2024-11-23 12:30:23,112 - 127.0.0.1 - - [23/Nov/2024 12:30:23] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-23 12:30:23,169 - 127.0.0.1 - - [23/Nov/2024 12:30:23] "[35m[1mGET /upload HTTP/1.1[0m" 500 -
+2024-11-23 12:30:23,410 - 127.0.0.1 - - [23/Nov/2024 12:30:23] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-23 12:30:23,413 - 127.0.0.1 - - [23/Nov/2024 12:30:23] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-23 12:30:23,497 - 127.0.0.1 - - [23/Nov/2024 12:30:23] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=IzQrJoaHpwrWbwA4b1V9 HTTP/1.1" 200 -
+2024-11-23 12:33:51,440 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 12:33:51,441 - [33mPress CTRL+C to quit[0m
+2024-11-23 12:33:51,444 -  * Restarting with stat
+2024-11-23 12:33:51,602 -  * Debugger is active!
+2024-11-23 12:33:51,602 -  * Debugger PIN: 126-576-184
+2024-11-23 12:33:58,273 - 127.0.0.1 - - [23/Nov/2024 12:33:58] "GET /login HTTP/1.1" 200 -
+2024-11-23 12:34:06,267 - 127.0.0.1 - - [23/Nov/2024 12:34:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-23 12:34:06,295 - 127.0.0.1 - - [23/Nov/2024 12:34:06] "GET /upload HTTP/1.1" 200 -
+2024-11-23 12:36:46,003 - UPLOAD by admin: test
+2024-11-23 12:36:46,003 - 127.0.0.1 - - [23/Nov/2024 12:36:46] "POST /upload HTTP/1.1" 200 -
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

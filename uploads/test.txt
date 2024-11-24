@@ -1,0 +1,1 @@
+This is a set of test files used to evaluate the secure file upload method.
